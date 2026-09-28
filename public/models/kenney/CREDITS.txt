@@ -1,0 +1,7 @@
+Models in this folder (computerKeyboard.glb, chairDesk.glb, pillow.glb,
+pillowBlue.glb) are from Kenney's Furniture Kit (https://kenney.nl),
+mirrored at https://github.com/shorepine/kenney/tree/main/3d/furniture.
+
+License: CC0 1.0 (public domain) — free for personal, educational, and
+commercial use. Attribution is not required, but Kenney appreciates a
+credit: www.kenney.nl
