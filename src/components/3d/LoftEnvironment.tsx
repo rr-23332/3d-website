@@ -83,7 +83,7 @@ export const LoftEnvironment: React.FC = () => {
       {/* Image-based lighting: gives metal (headphone shells, pedestal,
           monitor frames) real reflections instead of flat mirror-gray,
           and fills in ambient specular the point lights alone can't. */}
-      <Environment preset="apartment" background={false} environmentIntensity={0.35} />
+      <Environment files="/hdri/lebombo_1k.hdr" background={false} environmentIntensity={0.35} />
 
       {/* Soft Contact Shadows on Floor */}
       <ContactShadows
